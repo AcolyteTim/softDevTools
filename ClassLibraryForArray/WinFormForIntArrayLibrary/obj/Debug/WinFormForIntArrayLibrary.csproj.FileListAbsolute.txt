@@ -1,0 +1,39 @@
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.exe.config
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.exe
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.pdb
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csprojAssemblyReference.cache
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.Properties.Resources.resources
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.GenerateResource.cache
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.exe
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.pdb
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.Form1.resources
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\ClassLibraryForArray.dll
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\timag\source\repos\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.CopyComplete
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.exe.config
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.exe
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.pdb
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\ClassLibraryForArray.dll
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\ClassLibraryForArray.pdb
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csprojAssemblyReference.cache
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.Form1.resources
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.Properties.Resources.resources
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.GenerateResource.cache
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.CoreCompileInputs.cache
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.CopyComplete
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.exe
+E:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.pdb
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.exe.config
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.exe
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\WinFormForIntArrayLibrary.pdb
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\ClassLibraryForArray.dll
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\bin\Debug\ClassLibraryForArray.pdb
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csprojAssemblyReference.cache
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.Form1.resources
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.Properties.Resources.resources
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.GenerateResource.cache
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.CoreCompileInputs.cache
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.csproj.CopyComplete
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.exe
+F:\3 курс\Разработка ПМ (C#)\ЛР1\ClassLibraryForArray\WinFormForIntArrayLibrary\obj\Debug\WinFormForIntArrayLibrary.pdb

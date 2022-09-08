@@ -1,0 +1,6 @@
+C:\Users\timag\source\repos\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+C:\Users\timag\source\repos\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\timag\source\repos\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csprojAssemblyReference.cache
+C:\Users\timag\source\repos\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+C:\Users\timag\source\repos\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+C:\Users\timag\source\repos\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb
